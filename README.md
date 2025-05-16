@@ -1,6 +1,6 @@
 # llm-agent
 
-An program that queries Claude and can run tools. I took this from a tutorial: https://ampcode.com/how-to-build-an-agent
+A program that queries Claude and can run tools. I took this from a tutorial: https://ampcode.com/how-to-build-an-agent
 
 ```
     $ go run .
